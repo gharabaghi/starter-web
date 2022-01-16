@@ -9,6 +9,8 @@ This is simple website project form showing how to use Git and Github.
 This is an example to show different parts of the Ghit repository and various commands using a web project.
 ## Purpose
 
-## Deployment
+As stated above, the main purpose is to provide simple expamples for Git training demos.
 
-Sample website with plenty of files for demos
+## Deployment
+This is a simple web project, deployment can be on any web server or even local file system.
+<!-- Sample website with plenty of files for demos -->
