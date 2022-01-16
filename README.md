@@ -15,5 +15,8 @@ As stated above, the main purpose is to provide simple expamples for Git trainin
 This is a simple web project, deployment can be on any web server or even local file system.
 <!-- Sample website with plenty of files for demos -->
 
+## How to contribute
+Please fork this repository and issue a pull request.
+
 ### Copyrigh
 2021 @Gharabaghi
