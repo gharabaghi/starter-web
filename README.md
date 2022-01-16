@@ -14,3 +14,6 @@ As stated above, the main purpose is to provide simple expamples for Git trainin
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local file system.
 <!-- Sample website with plenty of files for demos -->
+
+### Copyrigh
+2021 @Gharabaghi
